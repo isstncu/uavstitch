@@ -1,4 +1,7 @@
 # uavstitch
 
-## 使用流程
-安装MCR_R2017b...exe，然后点击image_stitch文件下的image_completion.exe
+## USAGE
+
+The main program is image_completion.exe.
+
+To use the program, the MATLAB 2017 distribution is needed, which could be installed by click MCR_R2017b_win64_installer.exe.
