@@ -1,3 +1,7 @@
+The methodology of this software can be found at:
+Cui, Z., R. Tang and J. Wei (2023). "Stitch UAV Images with Transformer and Small Grid Reformation." IEEE Geoscience and Remote Sensing Letters 20: 1-5.
+
+
 # uavstitch
 
 ## USAGE
